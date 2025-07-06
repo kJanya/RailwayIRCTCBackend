@@ -211,19 +211,6 @@ x-api-key: your_admin_api_key
 | dotenv      | Manage environment vars  |
 | Postman     | API testing              |
 
----
-
-## 💡 Future Improvements
-- Role-based admin panel with UI.
-- Redis-based cache for real-time train availability.
-- Unit and integration tests with Jest or Mocha.
-
----
-
-## 🤝 Contributing
-
-Feel free to fork and raise a pull request for any improvements or bug fixes!  
-Let’s build robust backend systems together 🚀
 
 ---
 
