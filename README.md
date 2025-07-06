@@ -54,7 +54,7 @@ This project is a RESTful API for a train booking system, built as part of the W
 
 ```bash
 # Clone the repository
-git clone https://github.com/arvindk2025/IRCTC_Backend_WorkIndia.git
+git clone https://github.com/kJanya/RailwayIRCTCBackend.git
 cd IRCTC_Backend_WorkIndia
 ```
 
